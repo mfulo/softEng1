@@ -1,2 +1,1 @@
-# softEng1
-course requirement
+Software Engineering Lab 1 Student name: FULO, Milca
